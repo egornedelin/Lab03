@@ -1,0 +1,3 @@
+/home/beq/beq286/workspace/tasks/lab03/formatter_lib/_build/CMakeFiles/formatter_lib.dir
+/home/beq/beq286/workspace/tasks/lab03/formatter_lib/_build/CMakeFiles/edit_cache.dir
+/home/beq/beq286/workspace/tasks/lab03/formatter_lib/_build/CMakeFiles/rebuild_cache.dir
